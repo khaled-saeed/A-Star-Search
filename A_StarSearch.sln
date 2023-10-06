@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "A_StarSearch", "A_StarSearch.vcxproj", "{5CD28DB6-20D7-4167-94F3-1E04FC32D37E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CD28DB6-20D7-4167-94F3-1E04FC32D37E}.Debug|x64.ActiveCfg = Debug|x64
+		{5CD28DB6-20D7-4167-94F3-1E04FC32D37E}.Debug|x64.Build.0 = Debug|x64
+		{5CD28DB6-20D7-4167-94F3-1E04FC32D37E}.Debug|x86.ActiveCfg = Debug|Win32
+		{5CD28DB6-20D7-4167-94F3-1E04FC32D37E}.Debug|x86.Build.0 = Debug|Win32
+		{5CD28DB6-20D7-4167-94F3-1E04FC32D37E}.Release|x64.ActiveCfg = Release|x64
+		{5CD28DB6-20D7-4167-94F3-1E04FC32D37E}.Release|x64.Build.0 = Release|x64
+		{5CD28DB6-20D7-4167-94F3-1E04FC32D37E}.Release|x86.ActiveCfg = Release|Win32
+		{5CD28DB6-20D7-4167-94F3-1E04FC32D37E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61FBFADE-C818-464D-A9C3-9B53740DB56C}
+	EndGlobalSection
+EndGlobal

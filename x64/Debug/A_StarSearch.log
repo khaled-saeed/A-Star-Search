@@ -1,0 +1,3 @@
+﻿  A_StarSearch.cpp
+K:\Courses\Flying Cars ND\A_star\A_StarSearch\A_StarSearch.cpp(160,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  A_StarSearch.vcxproj -> K:\Courses\Flying Cars ND\A_star\A_StarSearch\x64\Debug\A_StarSearch.exe
